@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4637432872694553525
+  m_GuidHigh: 6928711171901153710
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5695820529150707199
+      m_GuidHigh: 2279471052698063026
+    m_SerializedTextureGuid:
+      m_GuidLow: 15385622506474584612
+      m_GuidHigh: 14849049257872785929
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 0
+    m_Name: 1-stationary-virtual-3D
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5738663020823035127
+      m_GuidHigh: 2305142697288736142
+    m_SerializedTextureGuid:
+      m_GuidLow: 17529408447614598787
+      m_GuidHigh: 8540051778118562200
+    m_Size: {x: 0.2, y: 0.25926667}
+    m_SpecifySize: 1
+    m_Name: 2-animated-virtual-3D
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5574724268524364459
+      m_GuidHigh: 10341202807523814799
+    m_SerializedTextureGuid:
+      m_GuidLow: 199368172704200054
+      m_GuidHigh: 231146837433564714
+    m_Size: {x: 0.3, y: 0.16666667}
+    m_SpecifySize: 1
+    m_Name: 3-moving3Dor2D
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5760055414488712509
+      m_GuidHigh: 602168479299117493
+    m_SerializedTextureGuid:
+      m_GuidLow: 14894558907925536819
+      m_GuidHigh: 8481184767687339705
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: 4-textual-virtual-object
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5277835756328901852
+      m_GuidHigh: 13630543841591747754
+    m_SerializedTextureGuid:
+      m_GuidLow: 13205874735983368260
+      m_GuidHigh: 5435281557586866601
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: 6-video
+    m_Texture: {fileID: 0}
